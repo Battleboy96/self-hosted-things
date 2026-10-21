@@ -3,12 +3,17 @@ body {
     color: white;
 }
 
-h {
-    color: rgb(212, 11, 28)
-    font-family: Corbel,
+h1 {
+    color: rgb(243, 130, 1);
+    font-family: Corbel;
 }
 
 p {
-    color: rgb(54, 19, 181)
-    font-family: Corbel,
+    color: rgb(226, 222, 5);
+    font-family: Corbel;
+}
+
+a {
+    color: rgb(102, 243, 1);
+    font-family: Corbel;
 }
